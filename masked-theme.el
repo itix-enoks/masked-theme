@@ -4,7 +4,7 @@
 
 ;; Author: M. Enes Kaya
 ;; E-mail: enoks@tutanota.com
-;; URL: https://github.com/enoks1/masked-theme
+;; URL: https://github.com/itix-enoks/masked-theme
 ;; Version: 0.1
 
 ;; Permission is hereby granted, free of charge, to any person
